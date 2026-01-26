@@ -26,7 +26,9 @@
 
 <div style="display: inline-block">
     <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux Server">
-    <img align="center" alt="Kali" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-original.svg" title="Kali Linux">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,azure,py,php,wordpress,git" />
+</div>
     <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker">
     <img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Microsoft Azure">
     <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">

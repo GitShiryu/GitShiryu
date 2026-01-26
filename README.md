@@ -24,17 +24,8 @@
 
 ### 🚀 Meu Stack Principal
 
-<div style="display: inline-block">
-    <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux Server">
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,azure,py,php,wordpress,git" />
-</div>
-    <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker">
-    <img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Microsoft Azure">
-    <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-    <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-    <img align="center" alt="WordPress" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" title="WordPress">
-    <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,azure, aws,py,php,wordpress,git" />
 </div>
 
 ---

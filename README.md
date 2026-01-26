@@ -9,8 +9,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GitShiryu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt" alt="GitHub Stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&langs_count=6&theme=tokyonight&locale=pt" alt="Top Languages">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GitShiryu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
 </div>
 
 ---
@@ -45,8 +45,5 @@
     </a>
     <a href="mailto:eliromulo@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://github.com/GitShiryu" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </div>

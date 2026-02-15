@@ -18,7 +18,6 @@
 ### 🛠️ No que estou trabalhando agora:
 - 🛡️ **SOC Home Lab:** Monitoramento de segurança com **Wazuh** em VPS Contabo.
 - 🤖 **Automações:** Fluxos inteligentes com **n8n** e integrações de segurança via Telegram.
-- ☁️ **Azure:** Especialização para a certificação **AZ-204**.
 
 ---
 

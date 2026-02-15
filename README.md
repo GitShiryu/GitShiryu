@@ -24,7 +24,7 @@
 ### 🚀 Meu Stack Principal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,html,css,javascript,dotnet,csharp,kali,docker,azure,py,php,wordpress,git,golang" />
+  <img src="https://skillicons.dev/icons?i=linux,html,css,javascript,dotnet,c#,kali,docker,azure,py,php,wordpress,git,golang" />
 </div>
 
 ---

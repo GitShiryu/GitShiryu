@@ -1,52 +1,22 @@
-<!-- HEADER ESTILO PS4 -->
+<!-- █████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=GitShiryu&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0033,100:000000&height=240&section=header&text=GITSHIRYU&fontSize=55&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  DevOps • Cybersecurity • Cloud • AI
-</p>
-
----
-
-## 🎮 Dashboard
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitShiryu&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;DEVOPS+%7C+CYBERSECURITY+%7C+CLOUD+%7C+AI" />
 </p>
 
 ---
 
-## 🧩 Active Modules
-
-🔐 Security Monitoring  
-☁️ Cloud Infrastructure  
-⚙️ DevSecOps Pipelines  
-🤖 Automation & AI Integration  
-
----
-
-## ⚡ System Skills
+## 🕹️ PLAYER STATUS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,azure,py,cs,js,kali,git,golang&theme=dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitShiryu&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=FF00FF" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </p>
 
 ---
 
-## 🌐 Network
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eli-martins-5911b82a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eliromulo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+## 🎯 CURRENT MISSIONS

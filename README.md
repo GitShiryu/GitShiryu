@@ -8,13 +8,20 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GitShiryu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
-</div>
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=GitShiryu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShiryu&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400" 
+    alt="Top Languages" 
+  />
+</p>
 
 ---
-
 ### 🛠️ No que estou trabalhando agora:
 - 🛡️ **SOC Home Lab:** Monitoramento de segurança com **Wazuh** em VPS Contabo.
 - 🤖 **Automações:** Fluxos inteligentes com **n8n** e integrações de segurança via Telegram.
